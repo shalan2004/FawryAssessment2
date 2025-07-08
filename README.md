@@ -1,10 +1,10 @@
-> 📝 This README was written with the help of ChatGPT.
+> This README was written with the help of ChatGPT.
 
-# 📚 Quantum Bookstore System - Fawry Quantum Internship Task 2
+# Quantum Bookstore System - Fawry Quantum Internship Task 2
 
 A simple Java bookstore system built as part of the Fawry Quantum Internship challenge.
 
-## ✅ Features
+## Features
 - Add books to inventory (PaperBook, EBook, ShowcaseBook)
 - Buy books using ISBN (with email/address)
   - PaperBook: shipped to address
@@ -13,9 +13,9 @@ A simple Java bookstore system built as part of the Fawry Quantum Internship cha
 - Remove outdated books based on publish year
 - Console outputs prefixed with "Quantum book store"
 
-## 📦 Tech Stack
+## Tech Stack
 - Java (clean OOP design)
 - Easily extendable with new book types
 
-## 🧪 Sample Output
+## Sample Output
 ![image alt](https://github.com/shalan2004/FawryAssessment2/blob/main/Sample_2.png?raw=true)
